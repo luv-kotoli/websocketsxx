@@ -5,6 +5,7 @@
 #include <vector>
 #include <list>
 #include <map>
+#include <functional>
 #include "libwebsockets.h"
 
 namespace agriic {
